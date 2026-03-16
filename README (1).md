@@ -298,13 +298,6 @@ The five highest-volume days all showed elevated late delivery counts:
     └── ABC_Delivery_Dashboard.html  ← Interactive HTML dashboard
 ```
 
----
-
-## 👤 Author
-
-**Project by:** *(your name here)*
-**Course/Context:** *(instructor / institution / module name)*
-**Date Completed:** December 2024 – January 2025
 
 ---
 
