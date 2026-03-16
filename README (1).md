@@ -1,11 +1,6 @@
 # 🚴 Delivery Distance & Efficiency Analysis
 **ABC Incorporated — Distance vs. Travel Time Study**
 
-![SQL](https://img.shields.io/badge/SQL-SQL%20Server-blue?logo=microsoftsqlserver&logoColor=white)
-![Power BI](https://img.shields.io/badge/Visualization-Power%20BI%20%2F%20HTML%20Dashboard-yellow?logo=powerbi&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Records](https://img.shields.io/badge/Records-16%2C842-lightgrey)
-![Date Range](https://img.shields.io/badge/Period-Dec%202024%20–%20Jan%202025-lightgrey)
 
 ---
 
@@ -278,8 +273,6 @@ The five highest-volume days all showed elevated late delivery counts:
 |---|---|
 | **SQL Server (T-SQL)** | Database creation, data import, feature engineering (`ALTER TABLE`, `UPDATE`, `DATEDIFF`), data transformation and export (`SELECT`, `CASE`, `FORMAT`, `CAST`) |
 | **SQL Server Management Studio (SSMS)** | Query development, table inspection, CSV import via Import Wizard |
-| **HTML / CSS / JavaScript** | Interactive dashboard layout, responsive design, tab navigation, filter controls |
-| **Chart.js** | Donut charts, bar charts, scatter plots, line charts — all rendered client-side |
 | **Google Fonts** | Syne (headings) and DM Sans (body) for dashboard typography |
 | **CSV (Excel-compatible)** | Intermediate data format between SQL export and dashboard ingestion |
 
